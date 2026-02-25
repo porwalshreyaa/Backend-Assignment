@@ -1,0 +1,10 @@
+{
+    "name": "fitness-booking-monorepo",
+    "private": true,
+    "scripts": {
+      "dev": "pnpm --filter server dev",
+      "install:server": "pnpm --filter server install",
+      "test": "pnpm --filter server test",
+      "format": "echo formatting later"
+    }
+  }
